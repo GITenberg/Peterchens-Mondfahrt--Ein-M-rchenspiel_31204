@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9489
     wikipedia: http://de.wikipedia.org/wiki/Gerdt_von_Bassewitz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31204#Peterchens-Mondfahrt--Ein-M-rchenspiel
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2010-02-07'
 gutenberg_type: Text
