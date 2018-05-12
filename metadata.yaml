@@ -1,0 +1,31 @@
+_repo: Peterchens-Mondfahrt--Ein-M-rchenspiel_31204
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bassewitz, Gerdt von
+    alias: Von Bassewitz, Gerdt
+    birthdate: 1878
+    deathdate: 1923
+    gutenberg_agent_id: '9489'
+    url: http://www.gutenberg.org/2009/agents/9489
+    wikipedia: http://de.wikipedia.org/wiki/Gerdt_von_Bassewitz
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2010-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31204'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Moon -- Juvenile fiction'
+- !lcsh 'Fairy tales'
+- !lcsh 'Beetles -- Juvenile fiction'
+title: 'Peterchens Mondfahrt: Ein Märchenspiel'
+url: http://www.gutenberg.org/ebooks/31204
